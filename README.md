@@ -1,10 +1,10 @@
 # 💫 **About Me**:
-###### 🙋‍♂️ Hi, I am **Sanjipan Deb**.
-###### 👨‍💻 Skilled in ***C/C++, Python, Java, MySQL, HTML, Linux, git and Microsoft Office***.
-###### 📸 Interested in ***Photography***.
-###### 💡 Focused in **Computer Science**.
-###### 🎒 Schooling from **Delhi Public School, Digboi**.
-###### 🧑‍🎓 Currently pursuing **B.Tech** in **Computer Science and Engineering *Specialization in Cyber Security & Digital Forensics*** from **Vellore Institute of Technology,** ***Bhopal***.
+#### 🙋‍♂️ Hi, I am **Sanjipan Deb**.
+#### 👨‍💻 Skilled in ***C/C++, Python, Java, MySQL, HTML, Linux, git and Microsoft Office***.
+#### 📸 Interested in ***Photography***.
+#### 💡 Focused in **Computer Science**.
+#### 🎒 Schooling from **Delhi Public School, Digboi**.
+#### 🧑‍🎓 Currently pursuing **B.Tech** in **Computer Science and Engineering *Specialization in Cyber Security & Digital Forensics*** from **Vellore Institute of Technology,** ***Bhopal***.
 
 
 ## 🌐 *Socials*:
