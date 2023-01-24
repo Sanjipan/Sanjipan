@@ -20,4 +20,4 @@
 ### 🏆 *GitHub Trophies*
 ![](https://github-profile-trophy.vercel.app/?username=Sanjipan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+![Visitor Count](https://profile-counter.glitch.me/sanjipan_deb/count.svg)
