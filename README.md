@@ -1,6 +1,6 @@
 # 💫 **About Me**:
 #### 🙋‍♂️ Hi, I am **Sanjipan Deb**.
-#### 👨‍💻 Skilled in ***C/C++, Python, Java, MySQL, HTML, Linux, git and Microsoft Office***.
+#### 👨‍💻 Skilled in ***Python, C/C++, Java, MySQL, HTML, Linux, git and Microsoft Office***.
 #### 📸 Interested in ***Photography***.
 #### 💡 Focused in **Computer Science**.
 #### 🎒 Schooling from **Delhi Public School, Digboi**.
