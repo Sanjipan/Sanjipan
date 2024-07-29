@@ -1,4 +1,6 @@
+![a gif](https://github.com/user-attachments/assets/5ef6a42f-2424-4e3a-a98f-04206a640532)
 # **About Me**:
+
 #### I am Sanjipan Deb, a dedicated cybersecurity enthusiast currently pursuing my B.Tech in Cyber Security at Vellore Institute of Technology, Bhopal. I have developed a strong foundation in both theoretical and practical aspects of cybersecurity. My technical skills include Java, Python, MySQL, and Linux, and I am proficient with tools like Nmap, Metasploit, Burp Suite, and Wireshark.
 
 
